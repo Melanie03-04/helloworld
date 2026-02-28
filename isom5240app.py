@@ -1,6 +1,6 @@
 from transformers import pipeline
 from PIL import Image
-import stream as st
+import streamlit as st
 
 # Streamlit UI
 st.header("Title: Age Classification using ViT")
